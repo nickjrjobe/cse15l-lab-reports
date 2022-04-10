@@ -7,7 +7,7 @@ __Installing VScode__
 
 Download the appropriate [vsCode](https://code.visualstudio.com/) version for your computer. See VScode starting window below:
 
-![VScode Screenshot](https://github.com/nickjrjobe/cse15l-lab-reports/blob/4ce7c2d29af8e7575dfb719dd1296fd6a532a2c1/Images/Screen%20Shot%202022-04-10%20at%201.49.05%20PM.png)
+![VScode Screenshot](/Images/Screen%20Shot%202022-04-10%20at%201.49.05%20PM.png)
 
 __Remotely Connecting__
 
