@@ -11,9 +11,9 @@ Download the appropriate [vsCode](https://code.visualstudio.com/) version for yo
 
 __Remotely Connecting__
 
-Open new vsCode terminal using conbtrol + shift + a backtick. Connect to the remote to the remote computer using the command $ ssh cs15lsp22zz@ieng6.ucsd.edu where zz is the letters in your account.Go to [Account Lookup](https://sdacs.ucsd.edu/~icc/index.php) to find it. 
+Open new vsCode terminal using conbtrol + shift + a backtick. Connect to the remote to the remote computer using the command $ ssh cs15lsp22zz@ieng6.ucsd.edu where zz is the letters in your account. Go to [Account Lookup](https://sdacs.ucsd.edu/~icc/index.php) to find it. 
 
-It will ask a question if it is your first time connecting, type "yes" but feel free to find more details on this here: [explanation](https://superuser.com/questions/421074/ssh-the-authenticity-of-host-host-cant-be-established/421084#421084). It will also ask for a password. 
+It will ask a question if it is your first time connecting, type "yes" but feel free to find more details on [here](https://superuser.com/questions/421074/ssh-the-authenticity-of-host-host-cant-be-established/421084#421084). It will also ask for a password. 
 
 Here's a screenshot of me remotely connecting:
 
@@ -22,7 +22,7 @@ Please note, I have connected before so some steps are missing in my screenshot.
 
 __Trying some commands__
 
-Here are some commands to try. cd <directory name>, to change to specified folder. pwd, to state current folder. ls, to list the files in the current directory. See screenshot below:
+Here are some commands to try. cd "directory name", to change to specified folder. pwd, to state current folder. ls, to list the files in the current directory. See screenshot below:
 
 ![Commands](./Images/Screen%20Shot%202022-04-10%20at%202.57.38%20PM.png)
   
