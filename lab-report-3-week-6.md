@@ -15,3 +15,21 @@
 *SCP command using Alias*
 
 ![Alias SCP Screenshot](./Images/New%20scp%20.png)
+
+**Setup Github Access from ieng6**
+
+*Gihub Account Screenshot*
+
+![Github Account Screenshot](./Images/Github%20Account%20screenshot.png)
+
+*Public and Private Key on User Account*
+
+![Public and Private Key on User Account Screenshot](./Images/Private%20Key%20%2B%20Private%20Key%20on%20User%20account.png)
+
+*git commit and push commands on ieng6 account*
+
+![git commit and push commands on ieng6 account](./Images/git%20commit%20and%20push%20screenshot.png)
+
+Here is the [link](https://github.com/nickjrjobe/markdown-parser/commit/ed7935c10d95abf7c32d978906f4045b6b031355) for the resulting commit.
+
+
