@@ -32,4 +32,14 @@
 
 Here is the [link](https://github.com/nickjrjobe/markdown-parser/commit/ed7935c10d95abf7c32d978906f4045b6b031355) for the resulting commit.
 
+**Copying whole directories with scp -r**
+
+*Copying whole markdown-parse directory*
+
+![Copying whole markdown-parse directory](./Images/Copying%20Markdown%20Parse.png)
+
+*Compiling and Running tests for repository in user account*
+
+![Compiling and Running test for Repository](./Images/Screen%20Shot%202022-05-14%20at%2012.51.55%20PM.png)
+
 
