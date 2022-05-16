@@ -42,4 +42,8 @@ Here is the [link](https://github.com/nickjrjobe/markdown-parser/commit/ed7935c1
 
 ![Compiling and Running test for Repository](./Images/Screen%20Shot%202022-05-14%20at%2012.51.55%20PM.png)
 
+*Sending and Remotely Logging in Simultaneously*
+
+![Combining steps](./Images/Combining%20Steps.png)
+
 
