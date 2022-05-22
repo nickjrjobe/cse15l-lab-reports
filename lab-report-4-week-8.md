@@ -23,9 +23,14 @@ Snippet 3: \[https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule]
 
 ![My implementation](/Images/Screen%20Shot%202022-05-22%20at%2012.32.48%20PM.png)
 
-*Reviewed Implementation*
+**
+![Reviewed implementation](./Images/Screen%20Shot%202022-05-22%20at%2012.48.14%20PM.png)
 
-![Reviewed implementation](./Images/Screen%20Shot%202022-05-22%20at%2012.46.33%20PM.png)
+*Commenting on the Test Results*
+- My implementation could be improved to address backticks using small changes. This could be addressed by adding if statements to check for them. 
+- Addressing the interesting brackets cases would be more difficult as this would require tracking opening and closing brackets. I think this would take more than 10 lines as you would need a stack to track them and make sure the opening and closing parentheses matched up.
+- I believe addressing the third snippet would require small changes. We could check for "/n" characters and then remove them by concating the two separate substrings that it divides. If the resulting string is valid then the link would be added. If not then it could be ignored.
+
 
 
 
