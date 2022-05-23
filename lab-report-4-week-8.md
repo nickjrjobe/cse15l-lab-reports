@@ -1,4 +1,4 @@
-### CSE 15L: Lab Report 3
+### CSE 15L: Lab Report 4
 *Week 8, 22 May 2022*
 
 [Here](https://github.com/ryankosta/good-markdown-parser)'s the code we reviewed.
@@ -23,7 +23,7 @@ Snippet 3: \[https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule]
 
 ![My implementation](/Images/Screen%20Shot%202022-05-22%20at%2012.32.48%20PM.png)
 
-**
+*Reviewed Implementation*
 ![Reviewed implementation](./Images/Screen%20Shot%202022-05-22%20at%2012.48.14%20PM.png)
 
 *Commenting on the Test Results*
