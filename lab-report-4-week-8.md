@@ -21,7 +21,7 @@ Snippet 3: \[https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule]
 
 *My implementation*
 
-![My implementation](/Images/Screen%20Shot%202022-05-22%20at%2012.32.48%20PM.png)
+![My implementation](./Images/Screen%20Shot%202022-05-22%20at%2012.32.48%20PM.png)
 
 *Reviewed Implementation*
 ![Reviewed implementation](./Images/Screen%20Shot%202022-05-22%20at%2012.48.14%20PM.png)
