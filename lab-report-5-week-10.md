@@ -29,7 +29,7 @@ Neither implementation is correct. The correct implementation should result in t
 is in the brackets. My implementation does not consider that the links could contain brackets, and searches for only one way to format links. My 
 implementation should check whether there are square brackets [] in order to know whether it is doing the right format check.
 
-
+![Fix? 1](/Images/Screen%20Shot%202022-06-05%20at%2012.15.29%20PM.png)
 
 *TEST TWO*
 
@@ -47,7 +47,10 @@ My Implementation:
 
 ![My Actual 2](./Images/Screen%20Shot%202022-06-05%20at%2011.21.54%20AM.png)
 
-My implementation is correct. The provided implementation should to check to make that there are [] before the (). 
+My implementation is correct. The provided implementation should to check to make that there are [] before the (). Could possibly be fixed by adding
+an if statement where my cursor is.
+
+![Fix? 2](./Images/Screen%20Shot%202022-06-05%20at%2012.09.26%20PM.png)
 
 
 
